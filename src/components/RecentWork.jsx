@@ -1,6 +1,6 @@
 import calc from "../assets/calc.png";
 import grabGo from "../assets/grab and go.png";
-import counterClock from "../assets/counterClock.png";
+import counterclock from "../assets/counterclock.png";
 import TravelBlog from "../assets/TravelBlog.png";
 import address from "../assets/address.png";
 import ntdl from "../assets/ntdl.png";
@@ -101,7 +101,7 @@ const RecentWork = () => {
           <div className="col">
             <div className="card h-100 shadow rounded">
               <img
-                src={counterClock}
+                src={counterclock}
                 className="card-img-top"
                 alt="Counter Clock"
                 style={{ height: "25vh", objectFit: "cover" }}
